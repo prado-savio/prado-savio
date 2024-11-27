@@ -1,4 +1,7 @@
-## Hi there 👋
+## Welcome 👋
+
+- 🔭 I’m currently working on Technical support with SQL Oracle
+- 🌱 I’m currently learning Data Scientist. Watching Python - Panda, R and Power BI
 
 <!--
 **prado-savio/prado-savio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
