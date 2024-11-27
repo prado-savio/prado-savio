@@ -1,7 +1,13 @@
-## Welcome 👋
+## <span style="color:blue">Welcome</span> 👋
+
+I recently created a profile on GitHub and I'm excited to start sharing my projects and contributing to the community.
+My goal is to use this platform to expand my knowledge and connect with other professionals in the technology field.
 
 - 🔭 I’m currently working on Technical support with SQL Oracle
 - 🌱 I’m currently learning Data Scientist. Watching Python - Panda, R and Power BI
+
+My skills are:
+<span style="color:blue">InterSystems, Analyst, MySQL, SQL Oracle, Python, R, Power BI</span>
 
 <!--
 **prado-savio/prado-savio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
